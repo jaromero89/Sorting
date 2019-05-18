@@ -1,0 +1,76 @@
+﻿James Romero
+                                                                Data Structures
+                                                                  CPSC 350
+
+
+Sorting Test
+
+
+Sorting(Top)
+Techniques
+------------------
+Integers
+(Column)
+	  
+   Bubble
+     Sort
+	
+
+Insertion
+Sort
+	
+
+Merge
+ Sort
+	
+
+Quick
+Sort
+	
+
+      Notes
+	      5000
+	  < 1 sec
+	< 1 sec
+	< 1 sec
+	< 1 sec
+	equal
+	    10000
+	  < 1 sec
+	< 1 sec
+	< 1 sec
+	< 1 sec
+	equal
+	    50000
+	  < 2 sec
+	< 7 sec
+	< 1 sec
+	< 1 sec
+	I.S slowed
+	  100000
+	     8 sec
+	 29 sec
+	< 1 sec
+	< 1 sec
+	MS QS(fast)
+	  500000
+	14 mins 2 sec
+	3 mins 8 sec
+	   8 sec
+	   3 sec
+	Bubble Sort slowed
+	1000000
+	< 1 hour
+	14 mins 8 sec
+	ERROR
+	10 seconds
+	Merge Crashed
+	
+
+
+
+* As the integers increased to respectable sizes the speeds went up as well
+* Insertion Sort and Bubble Sort proves to process slowly in a limited time
+* Merge Sort and Bubble Sort has shown relatively quick processing speeds to sort integer even when the values increased.  
+* Merge Sort so crashed after an attempt to process a million integers
+* I used a MacBook Pro 2018 for this test so a faster or slower computer may have changed the processing time.
